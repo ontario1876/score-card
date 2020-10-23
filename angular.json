@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "score-card"
+    }
+  },
+  "defaultProject": "score-card",
+  "cli": {
+    "analytics": false
+  }
 }
